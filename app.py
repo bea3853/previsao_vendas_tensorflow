@@ -1,4 +1,6 @@
 """
+
+turma  -  26286 -  sabado 12/09
 Aplicação Web de Previsão de Vendas com Streamlit e TensorFlow.
 Autor: Especialista ML & Python
 Descrição: Interface interativa para análise exploratória de vendas e
